@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://captainmostard.github.io/kine-martinique/sitemap.xml
