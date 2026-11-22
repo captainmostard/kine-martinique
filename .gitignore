@@ -1,0 +1,8 @@
+# Outils de travail et données brutes : jamais publiés
+outils/
+comps/
+owasp-security/
+.claude/
+data/geocodage.json
+annuaire-kines-martinique.avant-refonte.html
+.DS_Store
